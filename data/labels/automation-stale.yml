@@ -1,0 +1,7 @@
+groups:
+  - name: Automation
+    labels:
+      - name: backlog
+        description: This will never stale.
+      - name: stale
+        description: This is stale.
